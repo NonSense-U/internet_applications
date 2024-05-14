@@ -15,9 +15,9 @@ dist-ssr
 src/CSS/*
 Party.jsx
 nav.jsx
-card.jsx
 App.jsx
 
+.gitignore
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
