@@ -13,8 +13,6 @@ dist-ssr
 *.local
 
 src/CSS/*
-Party.jsx
-App.jsx
 
 .gitignore
 # Editor directories and files
