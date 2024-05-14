@@ -12,8 +12,6 @@ dist
 dist-ssr
 *.local
 
-src/CSS/*
-
 .gitignore
 # Editor directories and files
 .vscode/*
